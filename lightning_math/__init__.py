@@ -1,0 +1,2 @@
+"""Lightning Math game package."""
+
